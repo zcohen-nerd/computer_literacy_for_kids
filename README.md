@@ -129,6 +129,5 @@ SOFTWARE.
 Feedback, suggestions, and error reports are highly welcomed and encouraged! Please feel free to open an issue on GitHub to share your thoughts, report any problems you encounter, or suggest improvements. Contributions via pull requests are also appreciated if you have specific enhancements in mind.
 
 ---
----
 
 Happy Teaching!
