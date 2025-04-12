@@ -76,6 +76,28 @@ This curriculum primarily assumes a Windows 11 environment, but many tools are w
 5.  **Customize:** Most importantly, tailor the themes, examples, and creative prompts to the child's specific interests! If they love dinosaurs, search for dinosaurs, draw dinosaurs, make dinosaur stories. This is key to engagement.
 6.  **Be Patient & Positive:** Learning takes time. Celebrate effort and small successes!
 
+## To Do / Future Enhancements
+
+This section lists items that users of this curriculum might want to create or develop to enhance the learning experience, or potential areas for future community contributions:
+
+* **Create Printable Resources:**
+    * Visual instruction cards for each week's independent session (as suggested in Setup Tips).
+    * "Help Cards" with visual troubleshooting tips for key software (Paint 3D, Scratch, Tinkercad, etc.).
+    * Themed achievement tracker charts (e.g., space, animals, fantasy themes).
+    * Quick-reference sheets ("cheat sheets") for software toolbars or common Scratch blocks.
+* **Develop Starter Files/Templates:**
+    * Simple Scratch project templates with backdrops/sprites already loaded for certain activities.
+    * Basic presentation templates (Slides/Canva/PowerPoint) for multimedia weeks.
+    * Simple spreadsheet templates for data entry activities.
+* **Expand Content (Optional):**
+    * Develop alternative activity suggestions for different interests or skill levels within each week.
+    * Add links to high-quality, age-appropriate supplementary videos or online resources for specific topics (e.g., short videos explaining coding concepts, virtual museum tours).
+    * Create extension activities for children who grasp concepts quickly.
+* **Community Contributions:**
+    * Translate the curriculum into other languages.
+    * Adapt the curriculum for different operating systems or alternative software tools.
+    * Share examples of completed projects or customized activities.
+
 ## License
 
 This project is licensed under the MIT License.
