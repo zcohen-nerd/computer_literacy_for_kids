@@ -8,7 +8,7 @@ This repository is a home base for an 18-week computer literacy program designed
 
 - [Download the full curriculum as a DOCX](./18-Week%20Computer%20Literacy%20Curriculum%20for%20Young%20Learners.docx)
 - [Download the full curriculum as a PDF](./18-Week%20Computer%20Literacy%20Curriculum%20for%20Young%20Learners.pdf)
-- Explore the curriculum online at **Computer Literacy for Kids**: <https://zcohen-nerd.github.io/computer-literacy-curriculum/>
+- Explore the curriculum online at **Computer Literacy for Kids**: <https://zcohen-nerd.github.io/computer_literacy_for_kids/>
 
 Feel free to share the documents above or the hosted site link with other educators or families. Please avoid mirroring or re-hosting the entire repository contents elsewhere.
 

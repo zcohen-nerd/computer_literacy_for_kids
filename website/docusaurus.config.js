@@ -15,13 +15,13 @@ const config = {
   // Set the production url of your site here
   url: 'https://zcohen-nerd.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/computer-literacy-curriculum/',
+  // For GitHub pages deployment, it should match your repo name
+  baseUrl: '/computer_literacy_for_kids/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'zcohen-nerd', // Usually your GitHub org/user name.
-  projectName: 'computer-literacy-curriculum', // Usually your repo name.
+  projectName: 'computer_literacy_for_kids', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
