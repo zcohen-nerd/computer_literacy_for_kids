@@ -1,3 +1,14 @@
+---
+id: curriculum-master
+title: 18-Week Computer Literacy Curriculum
+description: >
+  Step-by-step computer literacy roadmap that blends guided lessons with independent practice for young beginners.
+sidebar_label: Curriculum Overview
+sidebar_position: 0
+---
+
+# 18-Week Computer Literacy Curriculum
+
 This curriculum provides a detailed, step-by-step guide for integrating guided learning with independent creative practice to build computer literacy skills for a young beginner (target age ~7), tailored to the child's individual interests (e.g., dinosaurs, space, animals, fantasy, vehicles, art, music). It begins with a strong foundation in online safety and digital citizenship, incorporating the Be Internet Awesome curriculum and optional 3D printing concepts. This version includes notes on adaptability, enhanced creative storytelling, earlier connection to the final project, and reflective moments.
 
 **Curriculum Overview:**
@@ -6,7 +17,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
 - **Sessions:** Two 30-minute guided sessions + one 20-minute independent session per week.
 
-- **Typing Practice:** Integrate 5-10 minutes of touch typing ([<u>TypingClub</u>](https://www.typingclub.com/) / [<u>BBC Dance Mat Typing</u>](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr)) into one or both *guided* sessions most weeks, starting Week 4.
+- **Typing Practice:** Integrate 5-10 minutes of touch typing ([TypingClub](https://www.typingclub.com/) / [BBC Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr)) into one or both *guided* sessions most weeks, starting Week 4.
 
 - **Final Project:** A culminating "Digital Creation Story" project combining multiple skills learned (Weeks 17-18), themed around the child's interests. Introduced conceptually around Week 4/5 and referenced periodically.
 
@@ -16,7 +27,34 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
 *(Note: Software like Paint 3D, Notepad, WordPad, File Explorer, and often Microsoft Clipchamp are typically built into Windows 11 and don't require separate installation. Alternatives like Google Docs/Slides/Sheets, Canva, Scratch, Tinkercad are web-based and free but may require account creation.)*
 
-# Week 1: Internet Ready - Safety First!
+:::info Quick Resources
+Jump to [Independent Session Setup Tips](#independent-session-setup-tips) and [Materials for Independent Sessions](#materials-for-independent-sessions) when you need a fast reminder of the take-home supports.
+:::
+
+## Program at a Glance
+
+| Week | Theme | Focus Highlights |
+| --- | --- | --- |
+| [Week 1](./week01-week-1-internet-ready-safety-first) | Internet Ready – Safety First! | Online safety foundations, Interland Reality River, talk-it-out mantra |
+| [Week 2](./week02-week-2-window-wonders-folder-forts) | Window Wonders & Folder Forts | Desktop navigation, window controls, folder organization |
+| [Week 3](./week03-week-3-digital-scribes-canvas-creations) | Digital Scribes & Canvas Creations | Simple word processing, Paint 3D storytelling, save-as practice |
+| [Week 4](./week04-week-4-internet-island-search-skills) | Internet Island & Search Skills | Safe search habits, evaluating kid-friendly sites, typing warm-ups |
+| [Week 5](./week05-week-5-code-sparks-hello-scratch) | Code Sparks – Hello Scratch! | Scratch interface tour, motion blocks, green-flag events |
+| [Week 6](./week06-week-6-scratch-stories-loopy-logic) | Scratch Stories & Loopy Logic | Sprite interactions, repeat/forever loops, sound triggers |
+| [Week 7](./week07-week-7-keyboard-quests-digital-post) | Keyboard Quests & Digital Post | Touch typing habits, drafting polite emails, safety reminders |
+| [Week 8](./week08-week-8-entering-the-3d-zone-tinkercad-time) | Entering the 3D Zone – Tinkercad Time! | 3D navigation, manipulating shapes, grouping and holes |
+| [Week 9](./week09-week-9-designing-dimensions-cad-creations) | Designing Dimensions – CAD Creations | Purposeful CAD design, text tool, alignment precision |
+| [Week 10](./week10-week-10-from-digital-to-reality-3d-print-prep) | From Digital to Reality – 3D Print Prep | Model libraries, slicer basics, supervised printer setup |
+| [Week 11](./week11-week-11-ai-adventures-smart-sparks) | AI Adventures & Smart Sparks | Kid-safe AI exploration, brainstorming questions, fact-checking |
+| [Week 12](./week12-week-12-awesome-internet-citizens-cyber-smarts) | Awesome Internet Citizens & Cyber Smarts | Digital citizenship, kindness role-play, strong passwords |
+| [Week 13](./week13-week-13-multimedia-magic-slideshow-stories) | Multimedia Magic – Slideshow Stories | Slide layouts, imagery, story pacing |
+| [Week 14](./week14-week-14-movie-maker-moments-video-ventures) | Movie Maker Moments – Video Ventures | Clipchamp sequencing, text overlays, background audio |
+| [Week 15](./week15-week-15-spreadsheet-secrets-chart-champions) | Spreadsheet Secrets & Chart Champions | Data entry, chart creation, interpreting results |
+| [Week 16](./week16-week-16-cosmic-creation-project-planning) | Cosmic Creation – Project Planning | Project scoping, asset planning, outline creation |
+| [Week 17](./week17-week-17-final-frontier-project-development) | Final Frontier – Project Development | Asset assembly, iteration, troubleshooting strategies |
+| [Week 18](./week18-week-18-mission-complete-project-showcase) | Mission Complete – Project Showcase | Polishing deliverables, presentation rehearsal, celebration |
+
+## Week 1: Internet Ready - Safety First!
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
@@ -26,7 +64,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Review the 5 BIA concepts and how to explain them simply.
 
-  - Bookmark [<u>Google Interland: Reality River</u>](https://beinternetawesome.withgoogle.com/en_us/interland/reality-river).
+  - Bookmark [Google Interland: Reality River](https://beinternetawesome.withgoogle.com/en_us/interland/reality-river).
 
   - Prepare materials for "Private vs. Public Info" activity (paper/whiteboard, markers).
 
@@ -36,7 +74,9 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Set up the visual timer.
 
-  - *Flexibility Note:* Gauge the child's existing awareness of online concepts. If completely new, keep explanations very simple. If they show some understanding, use slightly more specific examples.
+:::tip Flexibility
+Gauge the child's existing awareness of online concepts. If completely new, keep explanations very simple. If they show some understanding, use slightly more specific examples.
+:::
 
 - **Guided Session 1: Our Digital World & Being Awesome Online**
 
@@ -64,7 +104,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
     1.  **Discuss "Tricky" Things:** Use examples (fake prizes, quizzes asking private info). Use "tricks" instead of phishing/scam initially.
 
-    2.  **Play Interland - Reality River:** Play Level 1 of [<u>Google Interland: Reality River</u>](https://beinternetawesome.withgoogle.com/en_us/interland/reality-river), discussing choices made and why things might be fake.
+  2.  **Play Interland - Reality River:** Play Level 1 of [Google Interland: Reality River](https://beinternetawesome.withgoogle.com/en_us/interland/reality-river), discussing choices made and why things might be fake.
 
     3.  **Private vs. Public Info:** Brainstorm list (Okay: favorite color, drawing, first name in supervised context; Secret: full name, birthday, address, phone, school, passwords). Explain *why* secrets are kept safe.
 
@@ -80,7 +120,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - **Setup:** Visual timer, Paint 3D access, link to Interland, visual instruction card.
 
-# Week 2: Window Wonders & Folder Forts
+## Week 2: Window Wonders & Folder Forts
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
@@ -94,7 +134,9 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Set up the visual timer.
 
-  - *Flexibility Note:* If window management is intuitive, spend more time on file/folder concepts. If file organization is confusing, use physical folders/papers first as an analogy before moving to the computer.
+:::tip Flexibility
+If window management is intuitive, spend more time on file/folder concepts. If file organization is confusing, use physical folders/papers first as an analogy before moving to the computer.
+:::
 
 - **Guided Session 1: Exploring the Desktop**
 
@@ -138,7 +180,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
     10. Basic Troubleshooting Skills: Introduce a simple checklist for when things don't work right. Explain this is like a “toolbox” for solving little problems on your own.
 
-        - Try clicking again."
+  - Try clicking again.
 
         - "Is it already open in the background?"
 
@@ -158,7 +200,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - **Setup:** Simple visual instruction card, File Explorer, Paint 3D.
 
-# Week 3: Digital Scribes & Canvas Creations
+## Week 3: Digital Scribes & Canvas Creations
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
@@ -170,7 +212,9 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Set up visual timer.
 
-  - *Flexibility Note:* If typing is challenging, focus on accuracy over quantity, or use on-screen keyboard temporarily. If Paint 3D is highly engaging, allow more exploration or suggest the 2-3 panel mini-story for the independent session.
+:::tip Flexibility
+If typing is challenging, focus on accuracy over quantity, or use on-screen keyboard temporarily. If Paint 3D is highly engaging, allow more exploration or suggest the 2-3 panel mini-story for the independent session.
+:::
 
 - **Guided Session 1: Word Wizardry**
 
@@ -218,7 +262,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - **Setup:** Visual timer, Paint 3D quick reference sheet (optional), access to "Drawings" folder.
 
-# Week 4: Internet Island & Search Skills
+## Week 4: Internet Island & Search Skills
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
@@ -226,35 +270,39 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Ensure browser works, safe search enabled if possible.
 
-  - Bookmark [<u>Kiddle</u>](https://www.kiddle.co/), [<u>NASA Kids' Club</u>](https://www.nasa.gov/kidsclub/), [<u>Nat Geo Kids</u>](https://kids.nationalgeographic.com/) (or other relevant kid-safe sites based on interest).
+  - Bookmark [Kiddle](https://www.kiddle.co/), [NASA Kids' Club](https://www.nasa.gov/kidsclub/), [Nat Geo Kids](https://kids.nationalgeographic.com/) (or other relevant kid-safe sites based on interest).
 
   - Prepare discussion points on website trustworthiness (known source, looks professional/kid-friendly vs cluttered/ad-heavy).
 
-  - Set up typing practice site ([<u>TypingClub</u>](https://www.typingclub.com/) / [<u>BBC Dance Mat</u>](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr)).
+  - Set up typing practice site ([TypingClub](https://www.typingclub.com/) / [BBC Dance Mat](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr)).
 
   - Prepare/print visual instruction card.
 
   - Set up visual timer.
 
-  - *Flexibility Note:* If searching is easy, try slightly more complex search terms (e.g., "what did stegosaurus eat"). If comparing sites is hard, focus just on identifying known sources vs. unknown ones.
+:::tip Flexibility
+If searching is easy, try slightly more complex search terms (e.g., "what did stegosaurus eat"). If comparing sites is hard, focus just on identifying known sources vs. unknown ones.
+:::
 
-  - *Final Project Link:* "We're learning how to find information online. Later, when we do our big 'Digital Creation Story' project, you might need to look up facts about your chosen topic, so this skill will be super helpful!"
+:::info Final Project Link
+We're learning how to find information online. Later, when we do our big "Digital Creation Story" project, you might need to look up facts about your chosen topic, so this skill will be super helpful.
+:::
 
 - **Guided Session 1: Web Browser Voyage & Safe Sites**
 
-  - **LO:** Use browser (address bar, back/forward, refresh); navigate safe sites; use kid-friendly search engine ([<u>Kiddle</u>](https://www.kiddle.co/)); perform simple keyword searches; begin typing practice.
+  - **LO:** Use browser (address bar, back/forward, refresh); navigate safe sites; use kid-friendly search engine ([Kiddle](https://www.kiddle.co/)); perform simple keyword searches; begin typing practice.
 
   - **Activity:**
 
     1.  **Browser Tour:** Open browser. Point out address bar, back/forward, refresh. Explain functions.
 
-    2.  **Visit Safe Sites:** Visit pre-selected safe sites relevant to interests (e.g., [<u>NASA Kids' Club</u>](https://www.nasa.gov/kidsclub/), [<u>Nat Geo Kids</u>](https://kids.nationalgeographic.com/), museum kids' pages). Discuss why they are safe/good (trusted names, educational).
+  2.  **Visit Safe Sites:** Visit pre-selected safe sites relevant to interests (e.g., [NASA Kids' Club](https://www.nasa.gov/kidsclub/), [Nat Geo Kids](https://kids.nationalgeographic.com/), museum kids' pages). Discuss why they are safe/good (trusted names, educational).
 
-    3.  **Introduce Kiddle:** Go to [<u>Kiddle</u>](https://www.kiddle.co/). Explain it's a safer search engine for kids.
+  3.  **Introduce Kiddle:** Go to [Kiddle](https://www.kiddle.co/). Explain it's a safer search engine for kids.
 
     4.  **Practice Searching:** Help pick keywords for interests (e.g., "T-Rex facts," "how rockets work," "pictures of puppies"). Type into Kiddle. Look at image/web results.
 
-    5.  **Typing Practice (5-10 min):** Start first lesson on [<u>TypingClub</u>](https://www.typingclub.com/) or [<u>BBC Dance Mat</u>](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr). Focus on posture, home row.
+  5.  **Typing Practice (5-10 min):** Start first lesson on [TypingClub](https://www.typingclub.com/) or [BBC Dance Mat](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr). Focus on posture, home row.
 
   - **Reflection (1-2 min):** Ask: "What does the address bar show?" "Why might we use Kiddle instead of a regular search engine sometimes?"
 
@@ -264,7 +312,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - **Activity:**
 
-    1.  **Review Search:** Perform search on [<u>Kiddle</u>](https://www.kiddle.co/) (e.g., "how fast can cheetah run?"). Explain each link = different website.
+  1.  **Review Search:** Perform search on [Kiddle](https://www.kiddle.co/) (e.g., "how fast can cheetah run?"). Explain each link = different website.
 
     2.  **Evaluate Links (Simple):** Look at top results. Ask: "Know this website name?" (e.g., Nat Geo Kids vs. random name). "Description helpful?" Click 1-2 links. Ask: "Easy to read? For kids or grown-ups? Lots of ads?"
 
@@ -276,19 +324,19 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
 - **Independent Session (20 min): "Fact Collector"**
 
-  - **Instruction:** "Be an info detective! Use [<u>Kiddle</u>](https://www.kiddle.co/) to find one interesting fact about a topic you like (e.g., dinosaurs, planets, a favorite animal). Write the fact (or draw a picture about it) in Notepad/Paint 3D or just be ready to tell me."
+  - **Instruction:** "Be an info detective! Use [Kiddle](https://www.kiddle.co/) to find one interesting fact about a topic you like (e.g., dinosaurs, planets, a favorite animal). Write the fact (or draw a picture about it) in Notepad/Paint 3D or just be ready to tell me."
 
   - **Skills Reinforced:** Using kid-safe search engine, formulating queries, extracting information.
 
   - **Setup:** Visual instruction card with Kiddle link, Notepad/Paint 3D (optional), visual timer.
 
-# Week 5: Code Sparks - Hello Scratch!
+## Week 5: Code Sparks - Hello Scratch!
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
   - Review Week 5 LOs and Activities.
 
-  - Ensure Scratch parent/teacher and student accounts are created and login works ([<u>Scratch</u>](https://scratch.mit.edu/)).
+  - Ensure Scratch parent/teacher and student accounts are created and login works ([Scratch](https://scratch.mit.edu/)).
 
   - Refresh understanding of Scratch interface & basic Motion/Looks/Events/Control blocks.
 
@@ -298,9 +346,13 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Set up visual timer.
 
-  - *Flexibility Note:* If block coding is intuitive, challenge them to combine more blocks or explore Sounds early. If confusing, stick to simple 1-2 block scripts and repeat clicking them.
+:::tip Flexibility
+If block coding is intuitive, challenge them to combine more blocks or explore Sounds early. If confusing, stick to simple 1-2 block scripts and repeat clicking them.
+:::
 
-  - *Final Project Link:* "We're starting to learn Scratch! This is a tool we could use to make parts of your final 'Digital Creation Story' move, like making characters walk or objects fly."
+:::info Final Project Link
+We're starting to learn Scratch! This is a tool we could use to make parts of the final "Digital Creation Story" move, like making characters walk or objects fly.
+:::
 
 - **Guided Session 1: Cracking the Code**
 
@@ -310,7 +362,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
     1.  **Intro to Coding:** Explain coding = recipe/instructions for computer; blocks = ingredients/steps. Show simple recipe vs. Scratch script.
 
-    2.  **Scratch Interface Tour:** Log in to [<u>Scratch</u>](https://scratch.mit.edu/), click 'Create'. Point out Stage (action area), Sprite (character), Block Palette (block menu), Scripting Area (building space).
+  2.  **Scratch Interface Tour:** Log in to [Scratch](https://scratch.mit.edu/), click 'Create'. Point out Stage (action area), Sprite (character), Block Palette (block menu), Scripting Area (building space).
 
     3.  **Explore Blocks:** Click different categories (Motion-Blue, Looks-Purple, Sound-Pink, Events-Yellow, Control-Orange) to show variety. Explain colors group similar actions.
 
@@ -346,9 +398,9 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - **Skills Reinforced:** Scratch interface navigation, experimenting with different block categories (Sound, Looks), building simple scripts, saving work.
 
-  - **Setup:** Access to [<u>Scratch</u>](https://scratch.mit.edu/) (logged in), visual timer.
+  - **Setup:** Access to [Scratch](https://scratch.mit.edu/) (logged in), visual timer.
 
-# Week 6: Scratch Stories & Loopy Logic
+## Week 6: Scratch Stories & Loopy Logic
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
@@ -364,7 +416,9 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Set up the visual timer.
 
-  - *Flexibility Note:* If loops are confusing, focus on repeat first with small numbers. If interaction is tricky, stick to one method (e.g., just touching) rather than introducing both.
+:::tip Flexibility
+If loops are confusing, focus on repeat first with small numbers. If interaction is tricky, stick to one method (e.g., just touching) rather than introducing both.
+:::
 
   - *Storytelling Prompt:* Encourage naming sprites meaningfully and choosing backdrops/sounds that fit a simple story idea (e.g., "Let's make the dinosaur roar when the explorer gets close!").
 
@@ -428,15 +482,15 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - **Skills Reinforced:** Scratch basics (sprites, backdrops, motion, looks, sound, events, loops).
 
-  - **Setup:** [<u>Scratch</u>](https://scratch.mit.edu/) access, visual timer.
+  - **Setup:** [Scratch](https://scratch.mit.edu/) access, visual timer.
 
-# Week 7: Keyboard Quests & Digital Post
+## Week 7: Keyboard Quests & Digital Post
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
   - Review Week 7 LOs and Activities.
 
-  - Have typing practice site ready ([<u>TypingClub</u>](https://www.typingclub.com/) / [<u>BBC Dance Mat</u>](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr)) and know child's current level/lesson.
+  - Have typing practice site ready ([TypingClub](https://www.typingclub.com/) / [BBC Dance Mat](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr)) and know child's current level/lesson.
 
   - Prepare for supervised email practice: Decide on WordPad drafting or supervised child-safe email account (have login, be comfortable supervising).
 
@@ -446,7 +500,9 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Set up visual timer.
 
-  - *Flexibility Note:* If typing is progressing well, introduce punctuation keys. If email concepts are tricky, spend more time drafting offline or discussing safety scenarios.
+:::tip Flexibility
+If typing is progressing well, introduce punctuation keys. If email concepts are tricky, spend more time drafting offline or discussing safety scenarios.
+:::
 
 - **Guided Session 1: Typing Tune-Up**
 
@@ -456,7 +512,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
     1.  **Posture Check:** Review good typing posture (sit tall, feet flat, wrists straight).
 
-    2.  **Typing Practice (15-20 min):** Log in to [<u>TypingClub</u>](https://www.typingclub.com/) or [<u>BBC Dance Mat Typing</u>](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr). Work through next lesson/level. Offer encouragement.
+  2.  **Typing Practice (15-20 min):** Log in to [TypingClub](https://www.typingclub.com/) or [BBC Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr). Work through next lesson/level. Offer encouragement.
 
     3.  **Keyboard Game (Optional):** Quick "find the key" game without looking (e.g., "Find P," "Find Shift").
 
@@ -486,19 +542,19 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
 - **Independent Session (20 min): "Typing & Telling"**
 
-  - **Instruction:** "First, practice typing for 10 minutes using our typing game ([<u>TypingClub</u>](https://www.typingclub.com/) or [<u>BBC Dance Mat</u>](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr)). Try to beat your last score or finish a new lesson! After typing, open Notepad (built-in) and write one sentence telling me something you learned or practiced in the typing game today (like 'I practiced the E key' or 'I got 3 stars')."
+  - **Instruction:** "First, practice typing for 10 minutes using our typing game ([TypingClub](https://www.typingclub.com/) or [BBC Dance Mat](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr)). Try to beat your last score or finish a new lesson! After typing, open Notepad (built-in) and write one sentence telling me something you learned or practiced in the typing game today (like 'I practiced the E key' or 'I got 3 stars')."
 
   - **Skills Reinforced:** Typing practice, recalling information, writing a simple sentence using Notepad.
 
   - **Setup:** Access to typing game, Notepad, visual timer.
 
-# Week 8: Entering the 3D Zone - Tinkercad Time!
+## Week 8: Entering the 3D Zone - Tinkercad Time!
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
   - Review Week 8 LOs and Activities.
 
-  - Ensure [<u>Tinkercad</u>](https://www.tinkercad.com/) account is set up and login works.
+  - Ensure [Tinkercad](https://www.tinkercad.com/) account is set up and login works.
 
   - Refresh understanding of Tinkercad interface, adding/moving shapes, view controls (orbit/pan/zoom).
 
@@ -510,9 +566,13 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Set up visual timer.
 
-  - *Flexibility Note:* If 3D navigation is tricky, spend more time just practicing orbit/pan/zoom. If shape manipulation is easy, try building a slightly more complex object combining multiple groups or holes.
+:::tip Flexibility
+If 3D navigation is tricky, spend more time just practicing orbit/pan/zoom. If shape manipulation is easy, try building a slightly more complex object combining multiple groups or holes.
+:::
 
-  - *Final Project Link:* "We're learning Tinkercad now! This tool lets us build 3D shapes. You could use this to design a cool spaceship, a base on another planet, or maybe even a character for your final 'Digital Creation Story' project!"
+:::info Final Project Link
+We're learning Tinkercad now! This tool lets us build 3D shapes. You could use this to design a cool spaceship, a base on another planet, or even a character for the final "Digital Creation Story" project.
+:::
 
 - **Guided Session 1: Thinking in 3D**
 
@@ -520,7 +580,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - **Activity:**
 
-    1.  **2D vs. 3D:** Show Paint 3D drawing vs. [<u>Tinkercad</u>](https://www.tinkercad.com/) interface. Explain Tinkercad = building solid-looking things from all sides.
+    1.  **2D vs. 3D:** Show Paint 3D drawing vs. [Tinkercad](https://www.tinkercad.com/) interface. Explain Tinkercad = building solid-looking things from all sides.
 
     2.  **Tinkercad Interface:** Log in. Point out Workplane (blue grid = building table), Basic Shapes menu (right = building blocks).
 
@@ -568,13 +628,13 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
 - **Independent Session (20 min): "Shape Builder"**
 
-  - **Instruction:** "Time to build in 3D! Go into [<u>Tinkercad</u>](https://www.tinkercad.com/). Try building something cool using at least three *different* kinds of shapes from the menu (like a Box, a Sphere, and maybe a Cone or a Roof). It could be a weird alien, a spaceship part, a fantasy castle, or anything you imagine! See if you can group some shapes together to make a single object."
+  - **Instruction:** "Time to build in 3D! Go into [Tinkercad](https://www.tinkercad.com/). Try building something cool using at least three *different* kinds of shapes from the menu (like a Box, a Sphere, and maybe a Cone or a Roof). It could be a weird alien, a spaceship part, a fantasy castle, or anything you imagine! See if you can group some shapes together to make a single object."
 
   - **Skills Reinforced:** Tinkercad navigation, adding shapes, moving/resizing/lifting shapes, grouping (optional).
 
   - **Setup:** Tinkercad access (requires free account), visual timer, visual reference of basic shapes (optional).
 
-# Week 9: Designing Dimensions - CAD Creations
+## Week 9: Designing Dimensions - CAD Creations
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
@@ -592,7 +652,9 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Set up the visual timer.
 
-  - *Flexibility Note:* If text tool is fun, let the child experiment more with fonts/sizes. If precision tools (ruler/snap) are difficult, focus on visual alignment first and introduce precision gradually.
+:::tip Flexibility
+If text tool is fun, let the child experiment more with fonts/sizes. If precision tools (ruler/snap) are difficult, focus on visual alignment first and introduce precision gradually.
+:::
 
 - **Guided Session 1: Designing with Purpose**
 
@@ -638,21 +700,21 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
 - **Independent Session (20 min): "My Own Creation"**
 
-  - **Instruction:** "Keep creating in 3D! Go into [<u>Tinkercad</u>](https://www.tinkercad.com/). Either improve the design from our lesson (maybe use the Ruler to make it an exact size, add more detail, change color), OR start something new! Try designing a character from your favorite game, a cool pattern using shapes, or a futuristic vehicle. Remember to use the view controls!"
+  - **Instruction:** "Keep creating in 3D! Go into [Tinkercad](https://www.tinkercad.com/). Either improve the design from our lesson (maybe use the Ruler to make it an exact size, add more detail, change color), OR start something new! Try designing a character from your favorite game, a cool pattern using shapes, or a futuristic vehicle. Remember to use the view controls!"
 
   - **Skills Reinforced:** Tinkercad skills (grouping, holes, color, text, ruler, snap grid, view controls), creative design, precision adjustments.
 
   - **Setup:** Tinkercad access, visual timer.
 
-# Week 10: From Digital to Reality - 3D Print Prep
+## Week 10: From Digital to Reality - 3D Print Prep
 
-- **Teacher Preparation (Before the Week's Sessions):**
+## Week 11: AI Adventures - Smart Sparks
 
   - Review Week 10 LOs and Activities.
 
-  - Ensure browser access to [<u>Printables.com</u>](https://www.printables.com/) and/or [<u>Thingiverse</u>](https://www.thingiverse.com/).
+  - Ensure browser access to [Printables.com](https://www.printables.com/) and/or [Thingiverse](https://www.thingiverse.com/).
 
-  - Have your specific slicer software ([<u>Cura</u>](https://ultimaker.com/software/ultimaker-cura/), [<u>PrusaSlicer</u>](https://www.prusa3d.com/page/prusaslicer_424/), etc.) installed and configured for your 3D printer. Refresh understanding of loading STL, basic manipulation, slicing, previewing.
+  - Have your specific slicer software ([Cura](https://ultimaker.com/software/ultimaker-cura/), [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/), etc.) installed and configured for your 3D printer. Refresh understanding of loading STL, basic manipulation, slicing, previewing.
 
   - Ensure the 3D printer is operational (filament loaded, bed clear, level). Choose a quick-printing, simple STL beforehand as a backup.
 
@@ -662,17 +724,19 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Set up the visual timer.
 
-  - *Flexibility Note:* Spend more time browsing models if the child enjoys it. If slicer software seems too complex, focus on the concepts (slicing like bread) and just demonstrate the preview, handling most operations yourself initially. The goal is understanding the process, not mastering the slicer yet.
+:::tip Flexibility
+Spend more time browsing models if the child enjoys it. If slicer software seems too complex, focus on the concepts (slicing like bread) and just demonstrate the preview, handling most operations yourself initially. The goal is understanding the process, not mastering the slicer yet.
+:::
 
   - *Safety Note:* Emphasize that 3D printers have hot parts and moving components and must only be operated with close adult supervision.
 
 - **Guided Session 1: Finding Fantastic Prints**
 
-  - **LO:** Navigate model websites ([<u>Printables.com</u>](https://www.printables.com/), [<u>Thingiverse</u>](https://www.thingiverse.com/)); search for models; understand STL files; assess basic printability; download simple STL file.
+  - **LO:** Navigate model websites ([Printables.com](https://www.printables.com/), [Thingiverse](https://www.thingiverse.com/)); search for models; understand STL files; assess basic printability; download simple STL file.
 
   - **Activity:**
 
-    1.  **Explore Model Sites:** Open [<u>Printables.com</u>](https://www.printables.com/). Explain as online library for 3D models shared by people for printing. Browse main page.
+  1.  **Explore Model Sites:** Open [Printables.com](https://www.printables.com/). Explain as online library for 3D models shared by people for printing. Browse main page.
 
     2.  **Search for Models:** Use search bar for interests (e.g., "dinosaur," "car," "castle," "animal"). Browse results together.
 
@@ -712,23 +776,23 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
 - **Independent Session (20 min): "Printable Wishlist"**
 
-  - **Instruction:** "Dream about future prints! Go back to [<u>Printables.com</u>](https://www.printables.com/) or [<u>Thingiverse</u>](https://www.thingiverse.com/). Search for things you like (dinosaurs, cars, characters, useful things). Find three cool models you might like to print someday. Open Notepad (built-in). Try to copy the web address (link) for each model and paste it into Notepad, or just write down their names."
+  - **Instruction:** "Dream about future prints! Go back to [Printables.com](https://www.printables.com/) or [Thingiverse](https://www.thingiverse.com/). Search for things you like (dinosaurs, cars, characters, useful things). Find three cool models you might like to print someday. Open Notepad (built-in). Try to copy the web address (link) for each model and paste it into Notepad, or just write down their names."
 
   - **Skills Reinforced:** Website navigation, searching, identifying desired items, copy/paste (optional practice), saving info in text file.
 
   - **Setup:** Access to model websites, Notepad, visual timer.
 
-# Week 11: AI Adventures & Smart Sparks
+## Week 11: AI Adventures & Smart Sparks
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
   - Review Week 11 LOs and Activities.
 
-  - Ensure working login for [<u>ChatGPT</u>](https://chat.openai.com/) (or other chatbot) and prepare for close supervision.
+  - Ensure working login for [ChatGPT](https://chat.openai.com/) (or other chatbot) and prepare for close supervision.
 
   - Prepare fun, age-appropriate prompts for Session 1. Prepare brainstorming and fact-checking prompts for Session 2.
 
-  - Bookmark reliable source for fact-checking ([<u>NASA Space Place</u>](https://spaceplace.nasa.gov/), [<u>Nat Geo Kids</u>](https://kids.nationalgeographic.com/), museum site).
+  - Bookmark reliable source for fact-checking ([NASA Space Place](https://spaceplace.nasa.gov/), [Nat Geo Kids](https://kids.nationalgeographic.com/), museum site).
 
   - Have Paint 3D ready for independent session.
 
@@ -738,19 +802,23 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Set up visual timer.
 
-  - *Flexibility Note:* If AI concepts are confusing, stick to fun, creative prompts. If highly engaged, explore slightly more complex prompts or creative writing assistance. Emphasize safety rules repeatedly.
+:::tip Flexibility
+If AI concepts are confusing, stick to fun, creative prompts. If highly engaged, explore slightly more complex prompts or creative writing assistance. Emphasize safety rules repeatedly.
+:::
 
-  - *Final Project Link:* "AI like ChatGPT can sometimes help us brainstorm ideas for stories, like our final project. But remember, we always need to check facts it gives us!"
+:::info Final Project Link
+AI like ChatGPT can sometimes help us brainstorm ideas for stories, like our final project. But remember, we always need to check any facts it gives us.
+:::
 
 - **Guided Session 1: Meeting the AI Helper**
 
-  - **LO:** Define AI simply (pattern-learning program); interact safely with chatbot ([<u>ChatGPT</u>](https://chat.openai.com/)) under supervision; understand AI is tool, not person; reiterate no sharing private info.
+  - **LO:** Define AI simply (pattern-learning program); interact safely with chatbot ([ChatGPT](https://chat.openai.com/)) under supervision; understand AI is tool, not person; reiterate no sharing private info.
 
   - **Activity:**
 
     1.  **Introduce AI:** Explain AI = smart computer program learned from reading lots online. Good at language patterns. Can answer/write like human, but doesn't 'think' or 'feel'.
 
-    2.  **Supervised ChatGPT Interaction:** Log in to [<u>ChatGPT</u>](https://chat.openai.com/). Explain you type prompts first. Use fun prompts based on child's interests:
+  2.  **Supervised ChatGPT Interaction:** Log in to [ChatGPT](https://chat.openai.com/). Explain you type prompts first. Use fun prompts based on child's interests:
 
         - "Tell short funny story: dinosaur learns to fly."
 
@@ -772,7 +840,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - **Activity:**
 
-    1.  **AI for Ideas:** Use [<u>ChatGPT</u>](https://chat.openai.com/) for brainstorming (supervised typing):
+  1.  **AI for Ideas:** Use [ChatGPT](https://chat.openai.com/) for brainstorming (supervised typing):
 
         - "5 story ideas: magical creature goes to school."
 
@@ -791,19 +859,19 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
 - **Independent Session (20 min): "AI Idea Spark"**
 
-  - **Instruction:** "Let's use AI for drawing ideas! Think of a question about your interests (like 'What does a friendly robot dog look like?' or 'Describe a castle made of clouds'). With my help typing into [<u>ChatGPT</u>](https://chat.openai.com/), we'll ask. After reading answer, open Paint 3D & draw picture based on AI's idea!" (Requires parent initiation/supervision of AI).
+  - **Instruction:** "Let's use AI for drawing ideas! Think of a question about your interests (like 'What does a friendly robot dog look like?' or 'Describe a castle made of clouds'). With my help typing into [ChatGPT](https://chat.openai.com/), we'll ask. After reading answer, open Paint 3D & draw picture based on AI's idea!" (Requires parent initiation/supervision of AI).
 
   - **Skills Reinforced:** Question formulation, creative interpretation, digital art (Paint 3D).
 
   - **Setup:** Parent help for AI access, Paint 3D access, visual timer.
 
-# Week 12: Awesome Internet Citizens & Cyber Smarts
+## Week 12: Awesome Internet Citizens & Cyber Smarts
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
   - Review Week 12 LOs and Activities, focusing on BIA pillars (Kind, Care, Strong).
 
-  - Bookmark/have ready: [<u>Kind Kingdom</u>](https://beinternetawesome.withgoogle.com/en_us/interland/kind-kingdom), [<u>Mindful Mountain</u>](https://beinternetawesome.withgoogle.com/en_us/interland/mindful-mountain), [<u>Tower of Treasure</u>](https://beinternetawesome.withgoogle.com/en_us/interland/tower-of-treasure).
+  - Bookmark/have ready: [Kind Kingdom](https://beinternetawesome.withgoogle.com/en_us/interland/kind-kingdom), [Mindful Mountain](https://beinternetawesome.withgoogle.com/en_us/interland/mindful-mountain), [Tower of Treasure](https://beinternetawesome.withgoogle.com/en_us/interland/tower-of-treasure).
 
   - Prepare simple role-playing scenarios for kindness/unkindness.
 
@@ -817,7 +885,9 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Set up visual timer.
 
-  - *Flexibility Note:* Spend more time on the Interland game the child enjoys most or the concept they need more reinforcement on (Kindness, Sharing, Passwords). Keep role-playing simple and focused on positive actions.
+:::tip Flexibility
+Spend more time on the Interland game the child enjoys most or the concept they need more reinforcement on (Kindness, Sharing, Passwords). Keep role-playing simple and focused on positive actions.
+:::
 
 - **Guided Session 1: Be Internet Awesome - Kind & Careful!**
 
@@ -827,7 +897,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
     1.  **Discuss Kindness:** Ask: "How be kind online?" (Nice words, help). Discuss why unkindness hurts. Use BIA slogan: "It's Cool to Be Kind."
 
-    2.  **Play Kind Kingdom:** Play [**<u>Google Interland: Kind Kingdom</u>**](https://beinternetawesome.withgoogle.com/en_us/interland/kind-kingdom). Discuss scenarios (spread kindness, block negativity).
+  2.  **Play Kind Kingdom:** Play [**Google Interland: Kind Kingdom**](https://beinternetawesome.withgoogle.com/en_us/interland/kind-kingdom). Discuss scenarios (spread kindness, block negativity).
 
     3.  **Role-Play:** Scenario: "Mean comment on your drawing?" Discuss options: Don't reply meanly, tell adult, block (explain simply). Emphasize telling adult.
 
@@ -835,7 +905,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
     5.  **Digital Footprint Intro:** Explain simply: "Online actions leave 'footprints'. They can last long time. Leave kind & careful footprints!"
 
-    6.  **Play Mindful Mountain:** Play [**<u>Google Interland: Mindful Mountain</u>**](https://beinternetawesome.withgoogle.com/en_us/interland/mindful-mountain). Discuss sharing info only with right people.
+  6.  **Play Mindful Mountain:** Play [**Google Interland: Mindful Mountain**](https://beinternetawesome.withgoogle.com/en_us/interland/mindful-mountain). Discuss sharing info only with right people.
 
     7.  **Typing Practice (5-10 min):** Continue typing lessons.
 
@@ -866,7 +936,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
         - Reinforce: If you ever see a screen asking for a second step or a code, always talk to a grown-up first.
 
-    4.  **Play Tower of Treasure:** Play [**<u>Google Interland: Tower of Treasure</u>**](https://beinternetawesome.withgoogle.com/en_us/interland/tower-of-treasure). Discuss *why* game suggests changes (length, numbers, symbols).
+  4.  **Play Tower of Treasure:** Play [**Google Interland: Tower of Treasure**](https://beinternetawesome.withgoogle.com/en_us/interland/tower-of-treasure). Discuss *why* game suggests changes (length, numbers, symbols).
 
     5.  **Spotting Tricks (Phishing Review):** Show simple fake examples (Notepad): "Account locked! Click here enter password." or "You won! Enter name/address." Ask: "Look real? Why/why not? What do?"
 
@@ -876,19 +946,19 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
 - **Independent Session (20 min): "Safety Poster"**
 
-  - **Instruction:** "Make reminder poster! Open Paint 3D or [<u>Canva</u>](https://www.canva.com/). Create poster showing one 'Be Internet Awesome' rule (Be Kind, Be Careful, Be Strong)."
+  - **Instruction:** "Make reminder poster! Open Paint 3D or [Canva](https://www.canva.com/). Create poster showing one 'Be Internet Awesome' rule (Be Kind, Be Careful, Be Strong)."
 
   - **Skills Reinforced:** Digital art (Paint 3D/Canva), recalling/representing BIA safety concepts.
 
   - **Setup:** Paint 3D/Canva access (Canva requires free account), visual instruction card, visual timer.
 
-# Week 13: Multimedia Magic - Slideshow Stories
+## Week 13: Multimedia Magic - Slideshow Stories
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
   - Review Week 13 LOs and Activities.
 
-  - Choose presentation software ([<u>Canva</u>](https://www.canva.com/), PowerPoint, [<u>Google Slides</u>](https://docs.google.com/presentation/)) and ensure access/login. Familiarize with new slide, text, image insert, basic transitions/animations, presentation mode.
+  - Choose presentation software ([Canva](https://www.canva.com/), PowerPoint, [Google Slides](https://docs.google.com/presentation/)) and ensure access/login. Familiarize with new slide, text, image insert, basic transitions/animations, presentation mode.
 
   - Have typing practice site ready.
 
@@ -896,9 +966,13 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Set up visual timer.
 
-  - *Flexibility Note:* If presentation software is intuitive, explore more formatting options (fonts, colors, shapes). If challenging, stick to basic text/image insertion on simple layouts.
+:::tip Flexibility
+If presentation software is intuitive, explore more formatting options (fonts, colors, shapes). If challenging, stick to basic text/image insertion on simple layouts.
+:::
 
-  - *Final Project Link:* "Learning to make slideshows is great practice! You could use this tool to tell your final 'Digital Creation Story' with pictures and words, arranging the slides like pages in a book."
+:::info Final Project Link
+Learning to make slideshows is great practice! You could use this tool to tell the final "Digital Creation Story" with pictures and words, arranging the slides like pages in a book.
+:::
 
   - *Storytelling Prompt:* Encourage thinking about the *order* of slides to tell a simple story or present facts logically about a topic of interest.
 
@@ -910,7 +984,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
     1.  **Introduce Presentations:** Explain slideshows = digital show-and-tell for stories/facts with pictures.
 
-    2.  **Tool Tour:** Open chosen tool (e.g., [<u>Google Slides</u>](https://docs.google.com/presentation/)). Show slide area, thumbnails, toolbar (New Slide, Text Box, Insert Image).
+  2.  **Tool Tour:** Open chosen tool (e.g., [Google Slides](https://docs.google.com/presentation/)). Show slide area, thumbnails, toolbar (New Slide, Text Box, Insert Image).
 
     3.  **Create Title Slide:** Use first slide. Click text boxes, add title (e.g., "All About Dinosaurs", "My Fantasy World") and "By \[Child's Name\]".
 
@@ -950,13 +1024,13 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - **Setup:** Access to presentation file, Kiddle access (optional), visual timer.
 
-# Week 14: Movie Maker Moments - Video Ventures
+## Week 14: Movie Maker Moments - Video Ventures
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
   - Review Week 14 LOs and Activities.
 
-  - Ensure [<u>Microsoft Clipchamp</u>](https://app.clipchamp.com/) accessible (built-in app or web; may need free Microsoft account). Familiarize with import, timeline, text tool, stock audio, export.
+  - Ensure [Microsoft Clipchamp](https://app.clipchamp.com/) accessible (built-in app or web; may need free Microsoft account). Familiarize with import, timeline, text tool, stock audio, export.
 
   - Ensure images available for importing (Paint 3D drawings, saved pictures).
 
@@ -966,9 +1040,13 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Set up visual timer.
 
-  - *Flexibility Note:* If Clipchamp seems complex, focus just on sequencing images and adding music. If the child is enjoying it, explore simple video effects or transitions between clips.
+:::tip Flexibility
+If Clipchamp seems complex, focus just on sequencing images and adding music. If the child is enjoying it, explore simple video effects or transitions between clips.
+:::
 
-  - *Final Project Link:* "Making videos like this is another great way you could choose to tell your final 'Digital Creation Story'!"
+:::info Final Project Link
+Making videos like this is another great way you could choose to tell your final "Digital Creation Story."
+:::
 
   - *Storytelling Prompt:* Encourage arranging the imported images in an order that makes logical or narrative sense, like steps in a process or scenes in a story.
 
@@ -1020,19 +1098,19 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
 - **Independent Session (20 min): "Picture Movie"**
 
-  - **Instruction:** "Make tiny movie! Start new video in [<u>Clipchamp</u>](https://app.clipchamp.com/). Find 3-4 saved pictures (drawings/photos). Import them. Drag to timeline in order telling tiny story (e.g., character wakes up, eats breakfast, goes outside). Try making each picture show for 3-4 seconds."
+  - **Instruction:** "Make tiny movie! Start new video in [Clipchamp](https://app.clipchamp.com/). Find 3-4 saved pictures (drawings/photos). Import them. Drag to timeline in order telling tiny story (e.g., character wakes up, eats breakfast, goes outside). Try making each picture show for 3-4 seconds."
 
   - **Skills Reinforced:** Basic video editing (importing, sequencing, adjusting duration).
 
   - **Setup:** Clipchamp access, folder with saved images, visual timer.
 
-# Week 15: Spreadsheet Secrets & Chart Champions
+## Week 15: Spreadsheet Secrets & Chart Champions
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
   - Review Week 15 LOs and Activities.
 
-  - Choose spreadsheet software (Excel or [<u>Google Sheets</u>](https://docs.google.com/spreadsheets/)) ensure access/login. Familiarize with data entry, cell formatting (fill), selecting adjacent & non-adjacent data, inserting simple bar/pie charts.
+  - Choose spreadsheet software (Excel or [Google Sheets](https://docs.google.com/spreadsheets/)) ensure access/login. Familiarize with data entry, cell formatting (fill), selecting adjacent & non-adjacent data, inserting simple bar/pie charts.
 
   - Prepare simple dataset relevant to child's interests (e.g., Favorite Animals & Speeds, Game Characters & Powers, Types of Dinosaurs & Diets).
 
@@ -1044,9 +1122,13 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Set up visual timer.
 
-  - *Flexibility Note:* If spreadsheets seem dry, keep data entry minimal and focus on the visual chart creation. If the child enjoys organizing data, create a slightly larger table or explore simple sorting.
+:::tip Flexibility
+If spreadsheets seem dry, keep data entry minimal and focus on the visual chart creation. If the child enjoys organizing data, create a slightly larger table or explore simple sorting.
+:::
 
-  - *Final Project Link:* "Sometimes projects need organized information! While maybe not for *this* story project, knowing how to use spreadsheets and make charts is a useful skill for school projects or tracking collections later."
+:::info Final Project Link
+Sometimes projects need organized information! While maybe not for this exact story project, knowing how to use spreadsheets and make charts is a useful skill for school projects or tracking collections later.
+:::
 
 - **Guided Session 1: Data Detectives**
 
@@ -1054,7 +1136,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - **Activity:**
 
-    1.  **Introduce Spreadsheets:** Open Excel/[<u>Google Sheets</u>](https://docs.google.com/spreadsheets/). Explain = super-organized table of cells, good for lists/numbers. Point out Columns (A,B,C), Rows (1,2,3), Cells (A1, B3). Click cells, name addresses.
+  1.  **Introduce Spreadsheets:** Open Excel/[Google Sheets](https://docs.google.com/spreadsheets/). Explain = super-organized table of cells, good for lists/numbers. Point out Columns (A,B,C), Rows (1,2,3), Cells (A1, B3). Click cells, name addresses.
 
     2.  **Create Headers:** Based on chosen theme (e.g., A1: "Animal", B1: "Habitat", C1: "Can it Fly?"). Explain headers.
 
@@ -1096,13 +1178,13 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
 - **Independent Session (20 min): "Data Explorer"**
 
-  - **Instruction:** "Add more data! Open the spreadsheet we made ('Animal Data' or similar). Add one more row with information about another animal/dinosaur/character based on our headers (you can use [<u>Kiddle</u>](https://www.kiddle.co/) to look up info if needed). Type the info into the next empty row. Now, look at the chart. Did the new information appear automatically? If not, click the chart, look for options like 'Edit data range' (ask me if you need help!), & see if you can add the new row." (Focus on data entry & observation).
+  - **Instruction:** "Add more data! Open the spreadsheet we made ('Animal Data' or similar). Add one more row with information about another animal/dinosaur/character based on our headers (you can use [Kiddle](https://www.kiddle.co/) to look up info if needed). Type the info into the next empty row. Now, look at the chart. Did the new information appear automatically? If not, click the chart, look for options like 'Edit data range' (ask me if you need help!), & see if you can add the new row." (Focus on data entry & observation).
 
   - **Skills Reinforced:** Spreadsheet data entry, interacting with charts, observation, potentially updating chart data (problem-solving/asking for help).
 
   - **Setup:** Access to spreadsheet file, Kiddle access (optional), visual timer.
 
-# Week 16: Cosmic Creation - Project Planning
+## Week 16: Cosmic Creation - Project Planning
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
@@ -1124,7 +1206,9 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Set up visual timer.
 
-  - *Flexibility Note:* Allow ample time for brainstorming; don't rush idea selection. Keep the outline very simple (3-5 points). If one tool is clearly preferred, lean into that for asset creation, don't force using too many different tools if it causes frustration.
+:::tip Flexibility
+Allow ample time for brainstorming; don't rush idea selection. Keep the outline very simple (3-5 points). If one tool is clearly preferred, lean into that for asset creation, don't force using too many different tools if it causes frustration.
+:::
 
 - **Guided Session 1: Blast Off! Project Planning**
 
@@ -1183,7 +1267,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - **Setup:** Access to project files/tools, Story Outline file (optional reference), visual timer.
 
-# Week 17: Final Frontier - Project Development
+## Week 17: Final Frontier - Project Development
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
@@ -1199,7 +1283,9 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Set up visual timer.
 
-  - *Flexibility Note:* Assembly can be tricky. Focus on getting the main sequence together first, then refine. If one part is too difficult, simplify the story or find an alternative way using known skills. Encourage problem-solving but be ready to assist.
+:::tip Flexibility
+Assembly can be tricky. Focus on getting the main sequence together first, then refine. If one part is too difficult, simplify the story or find an alternative way using known skills. Encourage problem-solving but be ready to assist.
+:::
 
 - **Guided Session 1: Assembling the Adventure**
 
@@ -1263,7 +1349,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - **Setup:** Access to main project file, list of potential improvements (optional), visual timer.
 
-# Week 18: Mission Complete - Project Showcase
+## Week 18: Mission Complete - Project Showcase
 
 - **Teacher Preparation (Before the Week's Sessions):**
 
@@ -1279,7 +1365,9 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - Set up visual timer.
 
-  - *Flexibility Note:* Keep the showcase low-pressure and celebratory. Focus on effort and learning, not perfection. The "Free Create" session should be purely fun and exploratory.
+:::tip Flexibility
+Keep the showcase low-pressure and celebratory. Focus on effort and learning, not perfection. The "Free Create" session should be purely fun and exploratory.
+:::
 
 - **Guided Session 1: Final Touches & Rehearsal**
 
@@ -1337,7 +1425,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
   - **Setup:** Access to preferred software tools, visual timer.
 
-# Independent Session Setup Tips
+## Independent Session Setup Tips
 
 1.  **Create visual instruction cards:** Simple step-by-step guidance with pictures for each week's independent task.
 
@@ -1349,7 +1437,7 @@ This curriculum provides a detailed, step-by-step guide for integrating guided l
 
 5.  **Establish a "show and tell" routine:** After each independent session, spend 1-2 minutes letting the child briefly share what they created, discovered, or found challenging.
 
-# Materials for Independent Sessions
+## Materials for Independent Sessions
 
 - Printed instruction cards with visuals (specific to each week's task).
 
